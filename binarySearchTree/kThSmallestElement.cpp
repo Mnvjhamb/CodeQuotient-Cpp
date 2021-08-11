@@ -28,3 +28,5 @@ int kSmallest(Node* t1, int k){
   if(k>=li.size()) return -1;
   return li[k-1];
 }
+
+
